@@ -1,5 +1,5 @@
 name: Continous Builds
-
+  
 on:
   push:
     branches: [qt6]
